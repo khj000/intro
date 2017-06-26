@@ -1,5 +1,5 @@
 # intro
 
-#![연우](https://www.google.co.kr/url)
+#![연우](http://www.sedaily.com/NewsView/1OFSI9F9MA/)
 
 #[secrets](https://www.youtube.com/watch?v=qHm9MG9xw1o)
